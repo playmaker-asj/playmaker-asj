@@ -1,5 +1,6 @@
+<!-- ![visitors](https://komarev.com/ghpvc/?username=playmaker-asj&label=visitors) -->
 
- ✋ 𝐇𝐚𝐥𝐥𝐨 𝐢'𝐦 𝐀𝐝𝐞 𝐬𝐚𝐭𝐫𝐢𝐚 𝐉𝐚𝐬𝐥𝐢𝐧𝐝𝐨
+ ✋  𝐇𝐚𝐥𝐥𝐨 𝐢'𝐦 𝐀𝐝𝐞 𝐬𝐚𝐭𝐫𝐢𝐚 𝐉𝐚𝐬𝐥𝐢𝐧𝐝𝐨
 
 
 <!-- [![](https://img.shields.io/badge/-@xiaoluoboding-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/xiaoluoboding) -->
@@ -11,6 +12,11 @@
 🏛️ 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐜𝐬 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐟𝐫𝐨𝐦 𝐩𝐨𝐥𝐢𝐭𝐞𝐤𝐧𝐢𝐤 𝐧𝐞𝐠𝐞𝐫𝐢 𝐛𝐚𝐭𝐚𝐦 
 
 💻 𝐑𝐢𝐠𝐡𝐭 𝐧𝐨𝐰 𝐢 𝐩𝐮𝐭 𝐦𝐨𝐬𝐭𝐥𝐲 𝐨𝐟 𝐦𝐲 𝐟𝐨𝐜𝐮𝐬 𝐨𝐧 𝐰𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐰𝐢𝐭𝐡 𝐩𝐡𝐩, 𝐚𝐧𝐝 𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭
+
+<!-- ## 𝐂𝐨𝐧𝐭𝐚𝐜𝐭
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:contato.weltonf@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&labelColor=2867B2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/weltonfelix/)](https://www.linkedin.com/in/weltonfelix/) -->
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
@@ -39,4 +45,9 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Ade's github stats](https://github-readme-stats.vercel.app/api?username=playmaker-asj&show_icons=true&theme=dracula)
+![github stats](https://github-readme-stats.vercel.app/api?username=playmaker-asj&show_icons=true&theme=radical)
+
+
+
+
+
