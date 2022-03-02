@@ -1,6 +1,6 @@
 
 <a href="https://app.daily.dev/playmaker_asj"><img src="https://api.daily.dev/devcards/6c8f2032a0ac422bb58eac8751234621.png?r=5t1" width="250" align="right" alt="Ade Satria Jaslindo's Dev Card"/></a>
- ✋  𝐇𝐚𝐥𝐥𝐨 𝐢'𝐦 𝐀𝐝𝐞 𝐬𝐚𝐭𝐫𝐢𝐚 𝐉𝐚𝐬𝐥𝐢𝐧𝐝𝐨
+ ✋  𝐇𝐚𝐥𝐥𝐨 𝐢'𝐦 𝐀𝐝𝐞 𝐬𝐚𝐭𝐫𝐢𝐚 𝐉𝐚𝐬𝐥𝐢𝐧𝐝𝐨  <a href="https://github.com/playmaker-asj"><img align='right' src='https://github.com/playmaker-asj/playmaker-asj/blob/main/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'></a></h2>
 
 
 <!-- [![](https://img.shields.io/badge/-@xiaoluoboding-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/xiaoluoboding) -->
@@ -46,14 +46,19 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![github stats](https://github-readme-stats.vercel.app/api?username=playmaker-asj&show_icons=true&theme=radical) 
-<a href="https://github.com/playmaker-asj"><img align='right' src='https://github.com/playmaker-asj/playmaker-asj/blob/main/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='210"'></a></h2>
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=playmaker-asj&show_icons=true&theme=radical)  -->
 
 
+
+<!-- 
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg">
- <!--LINE-->
+ <!--LINE--> 
 
-
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=playmaker-asj&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=playmaker-asj&theme=react-dark"/>
+  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
+</div>
 
 
