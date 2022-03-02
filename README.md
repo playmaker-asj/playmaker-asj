@@ -47,7 +47,7 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=playmaker-asj&show_icons=true&theme=radical) 
-<a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='210"'></a></h2>
+<a href="https://github.com/playmaker-asj"><img align='right' src='https://github.com/playmaker-asj/playmaker-asj/blob/main/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='210"'></a></h2>
 
 
 <p align="center">
