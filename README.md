@@ -1,5 +1,5 @@
-<!-- ![visitors](https://komarev.com/ghpvc/?username=playmaker-asj&label=visitors) -->
 
+<a href="https://app.daily.dev/playmaker_asj"><img src="https://api.daily.dev/devcards/6c8f2032a0ac422bb58eac8751234621.png?r=5t1" width="250" align="right" alt="Ade Satria Jaslindo's Dev Card"/></a>
  ✋  𝐇𝐚𝐥𝐥𝐨 𝐢'𝐦 𝐀𝐝𝐞 𝐬𝐚𝐭𝐫𝐢𝐚 𝐉𝐚𝐬𝐥𝐢𝐧𝐝𝐨
 
 
@@ -12,6 +12,7 @@
 🏛️ 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐜𝐬 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐟𝐫𝐨𝐦 𝐩𝐨𝐥𝐢𝐭𝐞𝐤𝐧𝐢𝐤 𝐧𝐞𝐠𝐞𝐫𝐢 𝐛𝐚𝐭𝐚𝐦 
 
 💻 𝐑𝐢𝐠𝐡𝐭 𝐧𝐨𝐰 𝐢 𝐩𝐮𝐭 𝐦𝐨𝐬𝐭𝐥𝐲 𝐨𝐟 𝐦𝐲 𝐟𝐨𝐜𝐮𝐬 𝐨𝐧 𝐰𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐰𝐢𝐭𝐡 𝐩𝐡𝐩, 𝐚𝐧𝐝 𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭
+
 
 <!-- ## 𝐂𝐨𝐧𝐭𝐚𝐜𝐭
 
