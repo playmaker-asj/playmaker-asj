@@ -57,7 +57,7 @@
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=playmaker-asj&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=playmaker-asj&theme=react-dark"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=playmaker-asj&theme=react-light"/>
   <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
 </div>
 
