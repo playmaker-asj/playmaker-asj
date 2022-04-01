@@ -13,6 +13,7 @@
 
 💻 𝐑𝐢𝐠𝐡𝐭 𝐧𝐨𝐰 𝐢 𝐩𝐮𝐭 𝐦𝐨𝐬𝐭𝐥𝐲 𝐨𝐟 𝐦𝐲 𝐟𝐨𝐜𝐮𝐬 𝐨𝐧 𝐰𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐰𝐢𝐭𝐡 𝐩𝐡𝐩, 𝐚𝐧𝐝 𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ## 𝐂𝐨𝐧𝐭𝐚𝐜𝐭
 
@@ -57,6 +58,7 @@
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=playmaker-asj&theme=algolia&background=0d1117&hide_border=true" />
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <img src="https://activity-graph.herokuapp.com/graph?username=playmaker-asj&theme=react-dark"/>
  
   <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
