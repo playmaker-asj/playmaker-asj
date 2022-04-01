@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <a href="https://app.daily.dev/playmaker_asj"><img src="https://api.daily.dev/devcards/6c8f2032a0ac422bb58eac8751234621.png?r=5t1" width="250" align="right" alt="Ade Satria Jaslindo's Dev Card"/></a>
  ✋  𝐇𝐚𝐥𝐥𝐨 𝐢'𝐦 𝐀𝐝𝐞 𝐬𝐚𝐭𝐫𝐢𝐚 𝐉𝐚𝐬𝐥𝐢𝐧𝐝𝐨  <a href="https://github.com/playmaker-asj"><img align='right' src='https://github.com/playmaker-asj/playmaker-asj/blob/main/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'></a></h2>
@@ -13,7 +14,6 @@
 
 💻 𝐑𝐢𝐠𝐡𝐭 𝐧𝐨𝐰 𝐢 𝐩𝐮𝐭 𝐦𝐨𝐬𝐭𝐥𝐲 𝐨𝐟 𝐦𝐲 𝐟𝐨𝐜𝐮𝐬 𝐨𝐧 𝐰𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐰𝐢𝐭𝐡 𝐩𝐡𝐩, 𝐚𝐧𝐝 𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ## 𝐂𝐨𝐧𝐭𝐚𝐜𝐭
 
